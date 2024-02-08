@@ -18,7 +18,7 @@ For the Stats Preview Card Component project, my focus was on creating a visuall
   
 ### Screenshot
 
-![](./design/desktop-preview.jpg)
+![](./stats-preview-card-component-main/design/desktop-design.jpg)
 
 ### Links
 - Live Site URL: [Click here](https://neel-07.github.io/Stats-Preview-Card-Component/)
