@@ -18,10 +18,10 @@ For the Stats Preview Card Component project, my focus was on creating a visuall
   
 ### Screenshot
 
-![](./design/desktop-preview.jpg)
+![](./stats-preview-card-component-main/design/desktop-design.jpg)
 
 ### Links
-- Live Site URL: [Click here](https://neel-07.github.io//)
+- Live Site URL: [Click here](https://neel-07.github.io/Stats-Preview-Card-Component/)
 
 ## My process
   I began the project by meticulously structuring the HTML to encapsulate the key components of the statistics preview card, emphasizing clear and semantic layout. Following this, I delved into the CSS implementation, concentrating on visually stunning design elements and ensuring responsiveness across different screen sizes. Attention was paid to typography, color schemes, and layout considerations to produce an engaging and user-friendly stats preview card.
